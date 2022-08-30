@@ -1,0 +1,15 @@
+C:\Users\mesquitabohm.adrian\null\bashmosnter\bashmosnter\bin\Debug\net6.0\bashmosnter.exe
+C:\Users\mesquitabohm.adrian\null\bashmosnter\bashmosnter\bin\Debug\net6.0\bashmosnter.deps.json
+C:\Users\mesquitabohm.adrian\null\bashmosnter\bashmosnter\bin\Debug\net6.0\bashmosnter.runtimeconfig.json
+C:\Users\mesquitabohm.adrian\null\bashmosnter\bashmosnter\bin\Debug\net6.0\bashmosnter.dll
+C:\Users\mesquitabohm.adrian\null\bashmosnter\bashmosnter\bin\Debug\net6.0\bashmosnter.pdb
+C:\Users\mesquitabohm.adrian\null\bashmosnter\bashmosnter\obj\Debug\net6.0\bashmosnter.csproj.AssemblyReference.cache
+C:\Users\mesquitabohm.adrian\null\bashmosnter\bashmosnter\obj\Debug\net6.0\bashmosnter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mesquitabohm.adrian\null\bashmosnter\bashmosnter\obj\Debug\net6.0\bashmosnter.AssemblyInfoInputs.cache
+C:\Users\mesquitabohm.adrian\null\bashmosnter\bashmosnter\obj\Debug\net6.0\bashmosnter.AssemblyInfo.cs
+C:\Users\mesquitabohm.adrian\null\bashmosnter\bashmosnter\obj\Debug\net6.0\bashmosnter.csproj.CoreCompileInputs.cache
+C:\Users\mesquitabohm.adrian\null\bashmosnter\bashmosnter\obj\Debug\net6.0\bashmosnter.dll
+C:\Users\mesquitabohm.adrian\null\bashmosnter\bashmosnter\obj\Debug\net6.0\refint\bashmosnter.dll
+C:\Users\mesquitabohm.adrian\null\bashmosnter\bashmosnter\obj\Debug\net6.0\bashmosnter.pdb
+C:\Users\mesquitabohm.adrian\null\bashmosnter\bashmosnter\obj\Debug\net6.0\bashmosnter.genruntimeconfig.cache
+C:\Users\mesquitabohm.adrian\null\bashmosnter\bashmosnter\obj\Debug\net6.0\ref\bashmosnter.dll
